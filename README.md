@@ -16,13 +16,13 @@
 1. 克隆此仓库：
 
 ```
-git clone <git@github.com:kongdayan/FBS_HKUST_Spider.git>
+git clone git@github.com:kongdayan/HKUST_FBS_Slots_Tracker.git
 ```
 
 2. 进入项目目录：
 
 ```
-cd <git@github.com:kongdayan/FBS_HKUST_Spider.git>
+cd HKUST_FBS_Slots_Tracker
 ```
 
 3. 安装所需的依赖：
